@@ -4,7 +4,7 @@ MHVDBv2
 
 The goal of this project is to create a replacement for MHVDB. The system will store the details of members, and transactions to and from the organisation. It will allow users to sign up as members, update their details, and pay money. It will allow admins to create incoming and outgoing transactions, and view reports on members and transactions.
 
-This project uses [Flask](http://flask.pocoo.org) and Peewee.
+This project uses [Flask](http://flask.pocoo.org) and [Peewee](https://github.com/coleifer/peewee).
 
 Database Design
 ---------------
